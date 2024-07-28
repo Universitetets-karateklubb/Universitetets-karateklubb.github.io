@@ -1,3 +1,15 @@
+# Heimeside til UKK
+
+## Korleis redigera innhald
+Rediger direkte på Github eller last ned lokalt og rediger i ein teksteditor som VS Code.
+
+Innhald er for det meste skreve i Markdown-formaterte filer (.md).
+
+Heimesida vert publisert til Github pages her. Publiserte sider her: [ukk.no](ukk.no)
+Domenet har me kjøpt at Domeneshop.
+
+
+
 # Starlight Starter Kit: Basics
 
 ```
