@@ -23,12 +23,6 @@ Sted: [Sammen City, Kampsportsalen i 2. etg](https://goo.gl/maps/fkrWwZBLDuvxmTo
 
 Sted: [Sammen City, Kampsportsalen i 2. etg](https://goo.gl/maps/fkrWwZBLDuvxmTo7A).
 
-### Torsdag
-
-17:00 - 19:00 Fritrening
-
-Sted: [Det samfunnsvitenskapelige fakultet, SV-kjelleren](https://goo.gl/maps/6gRqozUT5DDyHcBHA)
-
 ### Fredag
 
 07:00 - 08:00 Morgentrening (kun for viderekomne)
