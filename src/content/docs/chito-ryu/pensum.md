@@ -5,14 +5,14 @@ description: Pensum stilarten Chito-ryu.
 
 Meir innhald kjem brått.
 
-# Basic
+## Basic
 
-# Kata
+## Kata
 
-# Bunkai
+## Bunkai
 
-# Våpen
+## Våpen
 
-# Kumite
+## Kumite
 
 
