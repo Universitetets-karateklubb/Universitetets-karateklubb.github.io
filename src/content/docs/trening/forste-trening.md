@@ -17,7 +17,7 @@ Vi har opptak av nybegynnere i august og september. Ta gjerne kontakt på epost 
 Universitetets karateklubb er tilknyttet Norges Kampsportforbund/Norges Idrettsforbund (NIF). 
 
 
-For å **bli medlem** registrer du deg via denne [innmeldingslenken](https://medlemskap.nif.no/24963), ved problemer under registrering er det bare å ta konktat med oss gjennom styret.ukk@gmail.com.
+For å **bli medlem** registrer du deg via denne [innmeldingslenken](https://medlemskap.nif.no/24963), ved problemer under registrering er det bare å ta konktat gjennom styret.ukk@gmail.com.
 
 
 Medlemskontingent for treningsåret 2024-2025 er NOK 300. I tillegg må du betale en treningsavgift på NOK 400/semester. For å få tilgang til Sammen City og andre treningssentre for studenter bør du i tillegg være medlem i Sammen.
