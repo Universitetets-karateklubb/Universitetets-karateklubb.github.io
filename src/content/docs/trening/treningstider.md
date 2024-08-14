@@ -7,7 +7,7 @@ description: Treningstider
 
 ### Mandag
 
-15:30 - 16:00 Viderekomne
+15:30 - 16:00 Egentrening
 
 16:00 - 17:15 Nybegynnere + alle (HIIT karate)
 
