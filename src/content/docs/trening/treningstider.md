@@ -76,7 +76,8 @@ Er du ny og ønsker å prøve deg på trening hos oss er det bare å stille opp 
 Under semesterstart _(Vår) uke 3-4_ og _(Høst) uke 33-34_ har vi en avtalt prøveperiode med Sammen treningssenter om gratis inngang til dojoen vår. Resten av året er prøveperioden hos oss fortsatt gratis de første ukene, men du må betale inngang til treningssenteret selv.
 
 
-Hvis du vil gi oss en lyd i forkant eller har diverse spørsmål er det bare å ta kontakt med oss her ::)
+Hvis du vil gi oss en lyd i forkant eller har diverse spørsmål er det bare å ta kontakt!
+
 
 ### Spond og messenger
 
