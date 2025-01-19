@@ -1,44 +1,81 @@
----
-title: Treningstider
-description: Treningstider
----
 
-## Treningstider høsten 2024
+## Treningstider
 
 ### Mandag
 
-15:30 - 16:00 Egentrening
+**15:30 - 16:00 Egentrening**
 
-16:00 - 17:30 Nybegynnere + alle (HIIT karate)
+Nivå: Alle
 
-Sted: [Sammen City, Kampsportsalen i 2. etg](https://goo.gl/maps/fkrWwZBLDuvxmTo7A).
+**16:00 - 17:15 Karatetrening**
+
+Nivå: Nybegynnere/Alle
+
+Instruktør: Jan Reinert Sensei
+
+
 
 ### Onsdag
 
-07:00 - 08:00 Morgentrening (kun for viderekomne)
+**16:00 - 16:30 Egentrening**
 
-17:00 - 18:00 Nybegynnere + alle (HIIT karate)
+Nivå: Alle
 
-18:00 - 19:00 Viderekomne
+**16:30 - 18:00 Karatetrening**
 
-Sted: [Sammen City, Kampsportsalen i 2. etg](https://goo.gl/maps/fkrWwZBLDuvxmTo7A).
+Fokus: Kumite og Kata, 
+
+Nivå: Nybegynnere/Alle
+
+Instruktører: Johan og Jan Reinert Sensei
+
+**18:00 - 19:00 Karatetrening (Renshi-klinikk)**
+
+Nivå: Viderekomne
+
+Instruktør: Trond Sensei
+
+
 
 ### Fredag
 
-07:00 - 08:00 Morgentrening (kun for viderekomne)
+**16:00 - 16:30 Egentrening**
 
-Sted: [Studentsenteret - Universitetet i Bergen, Gruppesalen i 2. etg](https://maps.app.goo.gl/zEh2X6bYoSMDhxrc7)
+Nivå: Alle
+
+**16:30 - 17:30 Karatetrening**
+
+Nivå: Nybegynnere/Alle
+
+Instruktør: Jan Reinert Sensei
+
+**17:30 - 18:39 Karatetrening (Renshi-klinikk)**
+
+Nivå: Viderekomne
+
+Instruktør: Trond Sensei
 
 
-16:30 - 17:30 Nybegynner + all (HIIT karate)
+#### Sted
 
-17:30 - 18:30 Viderekomne
+[Sammen City, Kampsportsalen i 2. etg](https://goo.gl/maps/fkrWwZBLDuvxmTo7A).
 
-Sted: [Sammen City, Kampsportsalen i 2. etg](https://goo.gl/maps/fkrWwZBLDuvxmTo7A).
 
 ### Annet
 
 I tillegg holder vi regelmessige helgetreninger og deltar på konkurranser nasjonalt og internasjonalt for de som ønsker det.
 
-### Spond
-Universitetes karateklubb bruker spond for å organisere treninger. Meld deg inn i gruppen vår via [denne](https://group.spond.com/HCHEC) lenken :)
+### Nybegynner inntak
+
+Er du ny og ønsker å prøve deg på trening hos oss er det bare å stille opp barbeint og i lette treningsklær når det passer.
+
+Under semesterstart _(Vår) uke 3-4_ og _(Høst) uke 33-34_ har vi en avtalt prøveperiode med Sammen treningssenter om gratis inngang til dojoen vår. Resten av året er prøveperioden hos oss fortsatt gratis de første ukene, men du må betale inngang til treningssenteret selv.
+
+
+Hvis du vil gi oss en lyd i forkant eller har diverse spørsmål er det bare å ta kontakt med oss her ::)
+
+### Spond og messenger
+
+Universitetes karateklubb bruker **Spond** for å organisere treninger. Meld deg inn i gruppen vår via [denne](https://group.spond.com/HCHEC) lenken.
+
+Be også en treningspartner om å legge deg til i **Messenger-gruppen** vår for diverse annen info :)
