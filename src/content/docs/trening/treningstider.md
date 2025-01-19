@@ -1,3 +1,7 @@
+---
+title: Treningstider
+description: Treningstider
+---
 
 ## Treningstider
 
