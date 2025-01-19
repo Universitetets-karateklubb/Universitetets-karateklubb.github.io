@@ -6,9 +6,12 @@ description: Velkommen til første trening med UKK.
 ## Nybegynneropptak 
 Karate er en allsidig treningsform som gir personlig vekst, et sosialt miljø og bedre forutsetninger for å lykkes med studier i en hektisk hverdag. Universitetets karateklubb (UKK) er den eldste karateklubben på Høyden. Vi trener stilarten Chito-ryu, men som studentklubb er vi åpne for medlemmer som har trent andre stilarter også.
 
-Fra høsten 2023 innfører vi et nytt konsept på nybegynnerpartiene: Høyintensitets intervalltrening med karate: [HIIT karate](/trening/hiit-karate). Her kombinerer vi tradisjonell karate med en moderne og allsidig treningsform for a bygge styrke, utholdenhet, koordinasion, eksplosivitet og fleksibilitet. Karate er en treningsform som passer for alle. Du trenger ingen spesielle forkunnskaper eller ferdigheter - de lærer du etter hvert.
+Karate er en treningsform som passer for alle. Du trenger ingen spesielle forkunnskaper eller ferdigheter - de lærer du etter hvert.
 
-Vi har opptak av nybegynnere i august og september. Ta gjerne kontakt på epost for mer informasjon (styret.ukk@gmail.com) eller still på et av nybegynnerpartiene våre i lett treningstøy. De første tre treningene er gratis.
+Vi har inntak av nybegynnere hele året, men samarbeider med Sammen treningssenter om gratis en prøveperiode i august (uke 33-34) og januar (uke 3-4). De første treningene hos oss er alltid gratis, men inngangen til dojoen vår må du ellers betale selv. 
+
+Ta gjerne kontakt med oss for mer informasjon (epost:styret.ukk@gmail.com) eller still på et av nybegynnerpartiene våre i lett treningstøy. 
+
 
 **Treningstider** finner du [her](/trening/treningstider).
 
