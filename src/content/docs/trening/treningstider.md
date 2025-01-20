@@ -53,7 +53,7 @@ Nivå: Nybegynnere/Alle
 
 Instruktør: Jan Reinert Sensei
 
-**17:30 - 18:39 Karatetrening (Renshi-klinikk)**
+**17:30 - 18:30 Karatetrening (Renshi-klinikk)**
 
 Nivå: Viderekomne
 
