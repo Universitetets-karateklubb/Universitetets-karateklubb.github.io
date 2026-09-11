@@ -19,11 +19,11 @@ Instructor: Jan Reinert Sensei
 
 ### Wednesday
 
-**16:00 - 16:30 Self-training**
+**16:00 - 17:00 Self-training**
 
 Level: Everyone
 
-**16:30 - 18:00 Karate training**
+**17:00 - 19:00 Karate training**
 
 Focus: Kumite and Kata
 
@@ -31,29 +31,23 @@ Level: Beginners/Everyone
 
 Instructors: Johan and Jan Reinert Sensei
 
-**18:00 - 19:00 Karate training (Renshi clinic)**
-
-Level: Advanced
-
-Instructor: Trond Sensei
-
 ### Friday
 
-**16:00 - 16:30 Self-training**
+**15:30 - 16:30 Self-training**
 
 Level: Everyone
 
-**16:30 - 17:30 Karate training**
+**16:30 - 18:30 Karate training (Renshi clinic)**
 
 Level: Beginners/Everyone
 
-Instructor: Jan Reinert Sensei
-
-**17:30 - 18:30 Karate training (Renshi clinic)**
-
-Level: Advanced
-
 Instructor: Trond Sensei
+
+### Sunday
+
+**10:00 - 11:30 Open dojo (self-training)**
+
+Level: Everyone
 
 #### Location
 
