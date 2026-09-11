@@ -20,4 +20,4 @@ Universitetets karateklubb is affiliated with the Norwegian Martial Arts Federat
 
 To **become a member**, register via this [membership link](https://medlemskap.nif.no/24963); if you run into problems during registration, just get in touch via styret.ukk@gmail.com.
 
-The membership fee for the 2024-2025 training year is NOK 300. In addition, you'll need to pay a training fee of NOK 400/semester. To get access to [Sammen City](https://sammen.no/no/trening/senter/city-treningssenter) and other training centres for students, you should also be a member of Sammen.
+The membership fee is NOK 300 the first year, after one year the price is NOK 600 per year. In addition, you'll need to pay a training fee of NOK 400/semester. To get access to [Sammen City](https://sammen.no/no/trening/senter/city-treningssenter) and other training centres for students, you should also be a member of Sammen.
