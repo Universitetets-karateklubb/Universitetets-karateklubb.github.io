@@ -21,11 +21,11 @@ Instruktør: Jan Reinert Sensei
 
 ### Onsdag
 
-**16:00 - 16:30 Egentrening**
+**16:00 - 17:00 Egentrening**
 
 Nivå: Alle
 
-**16:30 - 18:00 Karatetrening**
+**17:00 - 19:00 Karatetrening**
 
 Fokus: Kumite og Kata, 
 
@@ -33,31 +33,27 @@ Nivå: Nybegynnere/Alle
 
 Instruktører: Johan og Jan Reinert Sensei
 
-**18:00 - 19:00 Karatetrening (Renshi-klinikk)**
-
-Nivå: Viderekomne
-
-Instruktør: Trond Sensei
-
 
 
 ### Fredag
 
-**16:00 - 16:30 Egentrening**
+**15:30 - 16:30 Egentrening**
 
 Nivå: Alle
 
-**16:30 - 17:30 Karatetrening**
+**16:30 - 18:30 Karatetrening**
 
 Nivå: Nybegynnere/Alle
 
-Instruktør: Jan Reinert Sensei
-
-**17:30 - 18:30 Karatetrening (Renshi-klinikk)**
-
-Nivå: Viderekomne
-
 Instruktør: Trond Sensei
+
+
+### Søndag
+
+**10:00 - 11:30 Åpen dojo (Egentrening)**
+
+Nivå: Alle
+
 
 
 #### Sted
