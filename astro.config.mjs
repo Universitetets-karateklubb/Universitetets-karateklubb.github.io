@@ -11,6 +11,17 @@ export default defineConfig({
 				'./src/styles/custom.css',
 			],
 			title: 'Universitetets karateklubb',
+			defaultLocale: 'root',
+			locales: {
+				root: {
+					label: 'Norsk',
+					lang: 'no',
+				},
+				en: {
+					label: 'English',
+					lang: 'en',
+				},
+			},
 			sidebar: [
 				{
 					label: 'Trening',
