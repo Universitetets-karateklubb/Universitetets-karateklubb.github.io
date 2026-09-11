@@ -13,22 +13,15 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Trening',
-					autogenerate: { directory: 'trening' },
-					// items: [
-					// 	// Each item here is one entry in the navigation menu.
-					// 	{ label: 'Example Guide', link: '/guides/example/' },
-					// 	{ label: 'Example Guide', link: '/guides/example/' },
-					// 	{ label: 'Example Guide', link: '/guides/example/' },
-					// ],
-
+					items: [{ autogenerate: { directory: 'trening' } }],
 				},
 				{
 					label: 'Klubben',
-					autogenerate: { directory: 'klubben' },
+					items: [{ autogenerate: { directory: 'klubben' } }],
 				},
 				{
 					label: 'Chito ryu',
-					autogenerate: { directory: 'chito-ryu' },
+					items: [{ autogenerate: { directory: 'chito-ryu' } }],
 				},
 			],
 		}),

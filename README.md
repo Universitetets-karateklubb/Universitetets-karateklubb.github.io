@@ -1,29 +1,37 @@
 # Heimeside til UKK
 
-## Korleis redigera innhald
-Rediger direkte på Github eller last ned lokalt og rediger i ein teksteditor som VS Code.
+Heimesida vert publisert til Github Pages. Publisert side: [ukk.no](https://ukk.no)
+Domenet har me kjøpt hjå Domeneshop.
 
-Innhald er for det meste skreve i Markdown-formaterte filer (.md).
+## Korleis bidra
 
-Heimesida vert publisert til Github pages her. Publiserte sider her: [ukk.no](ukk.no)
-Domenet har me kjøpt at Domeneshop.
+1. **Fork** dette repoet (eller be om tilgang som medlem av organisasjonen) og lag ein ny branch for endringane dine.
+2. Rediger innhald:
+   - **Enkle endringar** (retta ein skrivefeil, oppdatera ein tekst): rediger fila direkte på Github i nettlesaren.
+   - **Større endringar** (nye sider, endra struktur, testa lokalt før publisering): last ned repoet lokalt og rediger i ein teksteditor som VS Code.
+3. Send inn endringane som ein **pull request** mot `main`.
+4. Når pull requesten er godkjend og merga, vert sida automatisk bygd og publisert på nytt via Github Actions.
 
+### Redigera innhald
 
+Innhald er for det meste skreve i Markdown-formaterte filer (`.md`/`.mdx`) under `src/content/docs/`. Kvar fil vert automatisk ei side på nettstaden, basert på filnamnet og mappestrukturen.
 
-# Starlight Starter Kit: Basics
+Bilete kan leggjast i `src/assets/` og limast inn i Markdown-filer med ei relativ lenkje.
+
+Statiske filer, som favicon, ligg i `public/`.
+
+### Køyra prosjektet lokalt
+
+Prosjektet brukar [pnpm](https://pnpm.io/) som pakkehandterar. Installer det først dersom du ikkje har det (`npm install -g pnpm`), klona så repoet og køyr:
 
 ```
-npm create astro@latest -- --template starlight
+pnpm install
+pnpm dev
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
+Dette startar ein lokal utviklingsserver på `localhost:4321` der du kan sjå endringane dine live før du sender inn ein pull request.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+## 🚀 Prosjektstruktur
 
 ```
 .
@@ -31,33 +39,26 @@ Inside of your Astro + Starlight project, you'll see the following folders and f
 ├── src/
 │   ├── assets/
 │   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
+│   │   └── docs/
+│   └── content.config.ts
 ├── astro.config.mjs
 ├── package.json
 └── tsconfig.json
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+## 🧞 Kommandoar
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+Alle kommandoar køyrast frå rota av prosjektet, i ein terminal:
 
-Static assets, like favicons, can be placed in the `public/` directory.
+| Kommando               | Handling                                          |
+| :---------------------- | :------------------------------------------------ |
+| `pnpm install`          | Installerer avhengigheiter                        |
+| `pnpm dev`              | Startar lokal utviklingsserver på `localhost:4321` |
+| `pnpm build`            | Byggjer produksjonssida til `./dist/`              |
+| `pnpm preview`          | Førehandsvis den bygde sida lokalt før publisering |
+| `pnpm astro ...`        | Køyr CLI-kommandoar som `astro add`, `astro check` |
+| `pnpm astro -- --help`  | Vis hjelp for Astro CLI                            |
 
-## 🧞 Commands
+## 👀 Vil du læra meir?
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `pnpm install`       | Installs dependencies                            |
-| `pnpm dev`           | Starts local dev server at `localhost:3000`      |
-| `pnpm build`         | Build your production site to `./dist/`          |
-| `pnpm preview`       | Preview your build locally, before deploying     |
-| `pnpm astro ...`     | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro -- --help` | Get help using the Astro CLI                   |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Sida er bygd med [Astro](https://astro.build) og [Starlight](https://starlight.astro.build/). Sjekk ut [Starlight sine docs](https://starlight.astro.build/) eller [Astro sin dokumentasjon](https://docs.astro.build) for meir informasjon.
