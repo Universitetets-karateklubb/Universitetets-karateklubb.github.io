@@ -75,8 +75,7 @@ Under semesterstart _(Vår) uke 3-4_ og _(Høst) uke 33-34_ har vi en avtalt pr�
 Hvis du vil gi oss en lyd i forkant eller har diverse spørsmål er det bare å ta kontakt!
 
 
-### Spond og messenger
+### Spond
 
 Universitetes karateklubb bruker **Spond** for å organisere treninger. Meld deg inn i gruppen vår via [denne](https://group.spond.com/HCHEC) lenken.
 
-Be også en treningspartner om å legge deg til i **Messenger-gruppen** vår for diverse annen info :)
