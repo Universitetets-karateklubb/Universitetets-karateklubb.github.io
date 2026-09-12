@@ -65,8 +65,7 @@ At the start of each semester *(Spring) weeks 3-4* and *(Autumn) weeks 33-34*, w
 
 Feel free to reach out beforehand or if you have any questions at all!
 
-### Spond and Messenger
+### Spond
 
 Universitetets karateklubb uses **Spond** to organise training sessions. Join our group via [this](https://group.spond.com/HCHEC) link.
 
-Also ask a training partner to add you to our **Messenger group** for other assorted info :)
